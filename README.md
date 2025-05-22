@@ -85,7 +85,7 @@ make filter
 
 | Week | Main Topic | Key Files | Status |
 |------|-----------|-----------|--------|
-| 0 | Scratch | `mario.sb3` | ✔️ done |
+| 0 | Scratch | `GiulianoPioldi_Scratch_CS50.sb3` | ✔️ |
 | 1 | C, Mario | `mario.c` | ✔️ |
 | 2 | Cryptography | `caesar.c`, `substitution.c` | ✔️ |
 | 3 | Algorithms | `plurality.c`, `tideman.c` | ✔️ |
