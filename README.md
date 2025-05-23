@@ -52,7 +52,7 @@ Extra folders:
 
 1. **Git** – clone the repo:
    ```bash
-   git clone https://github.com/your-username/CS50.git
+   git clone https://github.com/GPioldi/CS50.git
    cd CS50
    ```
 2. **C compiler** (GCC or Clang) – required for the early problem sets.
