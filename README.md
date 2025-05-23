@@ -99,64 +99,76 @@ make filter
 
 *The table will be updated as I refactor or extend solutions.*
 
-### Week 0 Notes
-- **Assignment**: [Starting from Scratch](https://cs50.harvard.edu/x/2025/psets/0/) – create a Scratch project of your choice.
-- **Prerequisite**: Latest version of Chrome.
-- **Deadline**: 31 December 2025, 23:59 UTC.
-- Tip: review [David’s example projects](https://scratch.mit.edu/users/cs50/) for inspiration.
-
 ### Week 1 Notes
-- **Assignments**: Mario (less & more), Cash, Credit
-- **Link**: <https://cs50.harvard.edu/x/2025/psets/1/>
-- **Goal**: Practise C basics, loops, and conditionals.
+- **Assignments**: Mario (less & more), Cash, Credit  
+- **Easier exercise**: Mario (less) – *scheduled*  
+- **Harder exercise (completed)**: Mario (more) – ✅  
+- **Link**: <https://cs50.harvard.edu/x/2025/psets/1/>  
+- **Goal**: Practise C basics, loops, and conditionals.  
 - **Tip**: Compile early, compile often with `make`.
 
 ### Week 2 Notes
-- **Assignments**: Readability, Caesar, Substitution, Scrabble
-- **Link**: <https://cs50.harvard.edu/x/2025/psets/2/>
-- **Goal**: Master arrays, command-line arguments, and string handling.
+- **Assignments**: Readability, Caesar, Substitution, Scrabble  
+- **Easier exercise**: Caesar – *scheduled*  
+- **Harder exercise (completed)**: Substitution – ✅  
+- **Link**: <https://cs50.harvard.edu/x/2025/psets/2/>  
+- **Goal**: Master arrays, command-line arguments, and string handling.  
 - **Tip**: Keep an ASCII table handy for quick char-int conversions.
 
 ### Week 3 Notes
-- **Assignments**: Plurality, Runoff, Tideman, Sort
-- **Link**: <https://cs50.harvard.edu/x/2025/psets/3/>
-- **Goal**: Explore classic algorithms and voting systems.
+- **Assignments**: Plurality, Runoff, Tideman, Sort  
+- **Easier exercise**: Plurality – *scheduled*  
+- **Harder exercise (completed)**: Tideman – ✅  
+- **Link**: <https://cs50.harvard.edu/x/2025/psets/3/>  
+- **Goal**: Explore classic algorithms and voting systems.  
 - **Tip**: Draw flowcharts before you code to clarify edge cases.
 
 ### Week 4 Notes
-- **Assignments**: Volume, Filter (blur/edge/grayscale), Recover
-- **Link**: <https://cs50.harvard.edu/x/2025/psets/4/>
-- **Goal**: Understand memory management and file I/O.
+- **Assignments**: Volume, Filter (blur/edge/grayscale), Recover  
+- **Easier exercise**: Volume – *scheduled*  
+- **Harder exercise (completed)**: Recover – ✅  
+- **Link**: <https://cs50.harvard.edu/x/2025/psets/4/>  
+- **Goal**: Understand memory management and file I/O.  
 - **Tip**: Use `debug50` to step through BMP headers byte by byte.
 
 ### Week 5 Notes
-- **Assignments**: Speller, Inheritance
-- **Link**: <https://cs50.harvard.edu/x/2025/psets/5/>
-- **Goal**: Work with hash tables, tries, and linked lists.
+- **Assignments**: Speller, Inheritance  
+- **Easier exercise**: Inheritance – *scheduled*  
+- **Harder exercise (completed)**: Speller – ✅  
+- **Link**: <https://cs50.harvard.edu/x/2025/psets/5/>  
+- **Goal**: Work with hash tables, tries, and linked lists.  
 - **Tip**: Experiment with different hash functions to improve `speller` speed.
 
 ### Week 6 Notes
-- **Assignments**: Hello, Mario (Python), Cash, Credit, Readability, DNA
-- **Link**: <https://cs50.harvard.edu/x/2025/psets/6/>
-- **Goal**: Transition from C to Python and leverage built-ins.
+- **Assignments**: Hello, Mario (Python), Cash, Credit, Readability, DNA  
+- **Easier exercise**: Readability.py – *scheduled*  
+- **Harder exercise (completed)**: DNA.py – ✅  
+- **Link**: <https://cs50.harvard.edu/x/2025/psets/6/>  
+- **Goal**: Transition from C to Python and leverage built-ins.  
 - **Tip**: List comprehensions and f-strings keep Python code concise.
 
 ### Week 7 Notes
-- **Assignments**: Movies, Songs, Fiftyville
-- **Link**: <https://cs50.harvard.edu/x/2025/psets/7/>
-- **Goal**: Query datasets with SQL and practise complex JOINs.
+- **Assignments**: Movies, Songs, Fiftyville  
+- **Easier exercise**: Movies – *scheduled*  
+- **Harder exercise (completed)**: Fiftyville – ✅  
+- **Link**: <https://cs50.harvard.edu/x/2025/psets/7/>  
+- **Goal**: Query datasets with SQL and practise complex JOINs.  
 - **Tip**: Start queries with `SELECT *` to explore the schema, then refine.
 
 ### Week 8 Notes
-- **Assignments**: Homepage, Trivia
-- **Link**: <https://cs50.harvard.edu/x/2025/psets/8/>
-- **Goal**: Build responsive websites with HTML, CSS, and JavaScript.
+- **Assignments**: Homepage, Trivia  
+- **Easier exercise**: Homepage – *scheduled*  
+- **Harder exercise (completed)**: Trivia – ✅  
+- **Link**: <https://cs50.harvard.edu/x/2025/psets/8/>  
+- **Goal**: Build responsive websites with HTML, CSS, and JavaScript.  
 - **Tip**: Validate your HTML & CSS via W3C to catch subtle issues.
 
 ### Week 9 Notes
-- **Assignments**: Birthdays, Finance
-- **Link**: <https://cs50.harvard.edu/x/2025/psets/9/>
-- **Goal**: Create Flask web apps integrating SQL and external APIs.
+- **Assignments**: Birthdays, Finance  
+- **Easier exercise**: Birthdays – *scheduled*  
+- **Harder exercise (completed)**: Finance – ✅  
+- **Link**: <https://cs50.harvard.edu/x/2025/psets/9/>  
+- **Goal**: Create Flask web apps integrating SQL and external APIs.  
 - **Tip**: Store API keys in environment variables, never in code.
 
 ---
