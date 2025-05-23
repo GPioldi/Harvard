@@ -1,3 +1,4 @@
+
 # Harvard CS50 – Solutions, Exercises & Projects
 
 Welcome to my public archive for **CS50 – Introduction to Computer Science** by Harvard University. Here you will find my solved problem sets, the final project, and personal study notes.
@@ -85,18 +86,78 @@ make filter
 
 | Week | Main Topic | Key Files | Status |
 |------|-----------|-----------|--------|
-| 0 | Scratch | `GiulianoPioldi_Scratch_CS50.sb3` | ✔️ |
-| 1 | C, Mario | `mario.c` | ✔️ |
-| 2 | Cryptography | `caesar.c`, `substitution.c` | ✔️ |
-| 3 | Algorithms | `plurality.c`, `tideman.c` | ✔️ |
-| 4 | Data structures | `filter`, `recover.c` | ✔️ |
-| 5 | Python | `dna.py`, `readability.py` | ✔️ |
-| 6 | Flask | `finance/` | 🛠️ under review |
-| 7 | SQL | `movies.db`, `songs.db` | ✔️ |
-| 8 | HTML/CSS | `homepage/` | ✔️ |
-| 9 | JavaScript | `search/`, `ports/` | ✔️ |
+| 0 | Scratch – Starting from Scratch | `GiulianoPioldi_Scratch_CS50.sb3` | ✔️ |
+| 1 | C Basics | `hello.c`, `mario.c`, `cash.c`, `credit.c` | ✔️ |
+| 2 | Arrays & Cryptography | `scrabble.c`, `readability.c`, `caesar.c`, `substitution.c` | ✔️ |
+| 3 | Algorithms | `sort/`, `plurality.c`, `runoff.c`/`tideman.c` | ✔️ |
+| 4 | Memory | `volume.c`, `filter`, `recover.c` | ✔️ |
+| 5 | Data Structures | `inheritance.c`, `speller.c` | ✔️ |
+| 6 | Python | `hello.py`, `mario.py`, `cash.py`, `credit.py`, `readability.py`, `dna.py` | 🛠️ |
+| 7 | SQL | `songs.db`, `movies.db`, `fiftyville/` | ✔️ |
+| 8 | Web (HTML, CSS, JS) | `trivia/`, `homepage/` | ✔️ |
+| 9 | Flask | `birthdays/`, `finance/` | 🛠️ |
 
 *The table will be updated as I refactor or extend solutions.*
+
+### Week 0 Notes
+- **Assignment**: [Starting from Scratch](https://cs50.harvard.edu/x/2025/psets/0/) – create a Scratch project of your choice.
+- **Prerequisite**: Latest version of Chrome.
+- **Deadline**: 31 December 2025, 23:59 UTC.
+- Tip: review [David’s example projects](https://scratch.mit.edu/users/cs50/) for inspiration.
+
+### Week 1 Notes
+- **Assignments**: Mario (less & more), Cash, Credit
+- **Link**: <https://cs50.harvard.edu/x/2025/psets/1/>
+- **Goal**: Practise C basics, loops, and conditionals.
+- **Tip**: Compile early, compile often with `make`.
+
+### Week 2 Notes
+- **Assignments**: Readability, Caesar, Substitution, Scrabble
+- **Link**: <https://cs50.harvard.edu/x/2025/psets/2/>
+- **Goal**: Master arrays, command-line arguments, and string handling.
+- **Tip**: Keep an ASCII table handy for quick char-int conversions.
+
+### Week 3 Notes
+- **Assignments**: Plurality, Runoff, Tideman, Sort
+- **Link**: <https://cs50.harvard.edu/x/2025/psets/3/>
+- **Goal**: Explore classic algorithms and voting systems.
+- **Tip**: Draw flowcharts before you code to clarify edge cases.
+
+### Week 4 Notes
+- **Assignments**: Volume, Filter (blur/edge/grayscale), Recover
+- **Link**: <https://cs50.harvard.edu/x/2025/psets/4/>
+- **Goal**: Understand memory management and file I/O.
+- **Tip**: Use `debug50` to step through BMP headers byte by byte.
+
+### Week 5 Notes
+- **Assignments**: Speller, Inheritance
+- **Link**: <https://cs50.harvard.edu/x/2025/psets/5/>
+- **Goal**: Work with hash tables, tries, and linked lists.
+- **Tip**: Experiment with different hash functions to improve `speller` speed.
+
+### Week 6 Notes
+- **Assignments**: Hello, Mario (Python), Cash, Credit, Readability, DNA
+- **Link**: <https://cs50.harvard.edu/x/2025/psets/6/>
+- **Goal**: Transition from C to Python and leverage built-ins.
+- **Tip**: List comprehensions and f-strings keep Python code concise.
+
+### Week 7 Notes
+- **Assignments**: Movies, Songs, Fiftyville
+- **Link**: <https://cs50.harvard.edu/x/2025/psets/7/>
+- **Goal**: Query datasets with SQL and practise complex JOINs.
+- **Tip**: Start queries with `SELECT *` to explore the schema, then refine.
+
+### Week 8 Notes
+- **Assignments**: Homepage, Trivia
+- **Link**: <https://cs50.harvard.edu/x/2025/psets/8/>
+- **Goal**: Build responsive websites with HTML, CSS, and JavaScript.
+- **Tip**: Validate your HTML & CSS via W3C to catch subtle issues.
+
+### Week 9 Notes
+- **Assignments**: Birthdays, Finance
+- **Link**: <https://cs50.harvard.edu/x/2025/psets/9/>
+- **Goal**: Create Flask web apps integrating SQL and external APIs.
+- **Tip**: Store API keys in environment variables, never in code.
 
 ---
 
